@@ -1,0 +1,24 @@
+{
+  "name": "vite-study",
+  "version": "1.0.0",
+  "description": "a imitation vite project for study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twoTree-coder/vite-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twoTree-coder/vite-study/issues"
+  },
+  "homepage": "https://github.com/twoTree-coder/vite-study#readme",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "vue": "^3.2.37"
+  }
+}
